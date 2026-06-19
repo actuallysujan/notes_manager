@@ -1,6 +1,6 @@
 # notes_manager
 
-A new Flutter project.
+Notes Manager app
 
 ## Getting Started
 
