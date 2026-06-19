@@ -75,8 +75,20 @@ git clone https://github.com/YOUR_USERNAME/notes-manager.git
 cd notes-manager
 ```
 
-### 2. Install dependencies
+### 2. Install dependencies[Required]
 ```bash
+
+  # Utils
+  intl: ^0.20.2
+ 
+  # UI
+  cupertino_icons: ^1.0.8
+  cloud_firestore: ^6.6.0
+  firebase_core: ^4.11.0
+  firebase_auth: ^6.5.3
+  lottie: ^3.3.3
+  toastification: ^3.2.0
+  
 flutter pub get
 ```
 
